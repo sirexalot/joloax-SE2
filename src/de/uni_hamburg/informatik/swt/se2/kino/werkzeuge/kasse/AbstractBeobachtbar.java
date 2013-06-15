@@ -12,7 +12,7 @@ public abstract class AbstractBeobachtbar {
 	}
 	
 	/**
-	 * Fügt einen neuen Beobachter hinzu
+	 * Fügt einen neuen Beobachter hinzu.
 	 * @param b Beobachter der hinzugefügt werden soll
 	 * @require b != null (&& _beobachter enthält nicht bereits den Beobachter)
 	 * @ensure Beobachter ist in der Menge der Beobachter gespeichert
